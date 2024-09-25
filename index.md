@@ -30,4 +30,15 @@ sections:
         expected to commence
       button: Click here to learn more
       url: /faq/
+  - infopic:
+      title: Bukit Timah Integrated Development
+      subtitle: In Our neighbourhood..
+      id: infopic
+      description: In preparation of BTID, service diversion works for power, gas and
+        telecommunications pipelines around the proposed site of BTID are
+        expected to commence
+      button: Click here to learn more
+      url: /btid/
+      image: /images/2024_0621_AERIAL_VIEW.jpg
+      alt: Image alt text
 ---
