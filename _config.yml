@@ -1,6 +1,6 @@
 title: Title
 url: https://www.bukittimah.pa.gov.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/PA_Logo.png
 colors:
   primary-color: "#0772f9"
   secondary-color: "#d0021b"
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging-lite.dn09szsjmln8f.amplifyapp.com
 prod: https://master.d1hyfc8cpzihgd.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/isomer-logo.svg
+shareicon: /images/PA_Logo.png
 is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
