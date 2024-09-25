@@ -23,9 +23,11 @@ sections:
           description: ""
           url: https://www.pa.gov.sg/community-volunteering/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: Bukit Timah Integrated Development
+      subtitle: In Our neighbourhood..
+      description: In preparation of BTID, service diversion works for power, gas and
+        telecommunications pipelines around the proposed site of BTID are
+        expected to commence
+      button: Click here to learn more
       url: /faq/
 ---
