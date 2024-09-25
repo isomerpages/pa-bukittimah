@@ -18,7 +18,7 @@ sections:
           url: https://google.com
         - title: Durearn Road Closure
           description: ""
-          url: https://gmail.com
+          url: /announcements/
         - title: Get Involved
           description: ""
           url: https://www.pa.gov.sg/community-volunteering/
