@@ -16,7 +16,7 @@ sections:
         - title: Bukit Timah Interim Market
           description: ""
           url: https://google.com
-        - title: Durearn Road Closure
+        - title: Dunearn Road Closure
           description: ""
           url: /announcements/
         - title: Get Involved
