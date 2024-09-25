@@ -1,8 +1,12 @@
 logo: /images/PA_Logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
+  - title: About Us
+    url: /permalink
+  - title: BT Integrated Development
+    url: /permalink
+  - title: BT Interim Market
+    url: /permalink
   - title: Announcements
     url: /announcements/
-  - title: Example Folder
-    collection: example-folder
+  - title: Contact Us
+    url: /contact-us/
