@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: Bukit Timah CC
 description: An Isomer site of the Singapore Government
 image: /images/PA_Logo.png
 permalink: /
