@@ -19,7 +19,7 @@ description: ""
 <iframe style="border:none;overflow:hidden" height="476" width="267" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=476&amp;href=https%3A%2F%2Fwww.facebook.com%2FBukitTimah%2Fvideos%2F362391823573779%2F&amp;show_text=false&amp;width=267&amp;t=0"></iframe>
 </div>
 <hr>
-<p><strong>Experience the magic of Music Under The Stars!  Relive the melodies and moments with us. </strong>
+<p><strong>Experience the magic of Music Under The Stars! Relive the melodies and moments with us.</strong>
 </p>
 <div class="iframe-wrapper">
 <iframe style="border:none;overflow:hidden" height="476" width="267" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=476&amp;href=https%3A%2F%2Fwww.facebook.com%2FBukitTimah%2Fvideos%2F1017988519938350%2F&amp;show_text=false&amp;width=267&amp;t=0"></iframe>
