@@ -2,11 +2,11 @@ logo: /images/PA_Logo.png
 links:
   - title: About Us
     url: /permalink
-  - title: BT Integrated Development
-    url: /permalink
-  - title: BT Interim Market
-    url: /permalink
   - title: Announcements
     url: /announcements/
+  - title: Events
+    url: /permalink
+  - title: Our Community
+    url: /permalink
   - title: Contact Us
     url: /contact-us/
