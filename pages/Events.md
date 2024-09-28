@@ -11,5 +11,7 @@ description: ""
 </div>
 <p></p>
 <h2><strong>Celebrating Our Community: Highlights from our past events</strong></h2>
-<p></p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=476&amp;href=https%3A%2F%2Fwww.facebook.com%2FBukitTimah%2Fvideos%2F1552240608698034%2F&amp;show_text=false&amp;width=267&amp;t=0"></iframe>
+</div>
 <p></p>
