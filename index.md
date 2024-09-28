@@ -14,7 +14,7 @@ sections:
           url: ""
         - title: Events
           description: ""
-          url: /announcements/
+          url: /events/
         - title: Our Community
           description: ""
           url: ""
