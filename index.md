@@ -7,15 +7,17 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Bukit Timah Community Club
-      background: /images/DSC_3767.jpg
+      background: /images/FB_Banner.gif
       key_highlights:
-        - title: Bukit Timah Interim Market
+        - title: Announcements
           description: ""
-          url: https://google.com
-        - title: Dunearn Road Closure
+          url: ""
+        - title: Events
           description: ""
           url: /announcements/
+        - title: Our Community
+          description: ""
+          url: ""
         - title: Get Involved
           description: ""
           url: https://www.pa.gov.sg/community-volunteering/
