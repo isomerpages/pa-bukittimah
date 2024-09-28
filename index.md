@@ -17,7 +17,7 @@ sections:
           url: /events/
         - title: Our Community
           description: ""
-          url: ""
+          url: /our-community/
         - title: Get Involved
           description: ""
           url: https://www.pa.gov.sg/community-volunteering/
