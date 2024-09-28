@@ -2,5 +2,5 @@ collections:
   about-us:
     output: true
     order:
-      - Our Grassroots Adviser.md
       - About us.md
+      - Our Grassroots Adviser.md
