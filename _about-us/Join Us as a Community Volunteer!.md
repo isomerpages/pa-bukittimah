@@ -6,4 +6,7 @@ description: ""
 ---
 <h3>Make a Difference Together: Volunteer Opportunities Await You!</h3>
 <hr>
-<p></p>
+<h4><strong>Join Us as a Volunteer!</strong></h4>
+<p>We welcome you to make a difference in our community.</p>
+<p>Click the icon below to get involved:</p><a class="isomer-image-wrapper" href="https://t.me/VolunteeringatBT"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/telegram_gif.gif"></a>
+<p>Your time and talents can help us create an even stronger Bukit Timah!</p>
