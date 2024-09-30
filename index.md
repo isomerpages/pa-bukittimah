@@ -18,9 +18,6 @@ sections:
         - title: Our Community
           description: ""
           url: /our-community/
-        - title: Get Involved
-          description: ""
-          url: https://www.pa.gov.sg/community-volunteering/
       variant: center
   - infopic:
       title: Bukit Timah Integrated Development
