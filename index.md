@@ -42,6 +42,6 @@ sections:
         to reach out to us.
       button: Get in Touch
       url: /contact-us/
-      image: /images/fa1267_8d5e4df280eb42f496d1c6544a8eee8b_mv2.gif
+      image: /images/fa1267_8d5e4df280eb42f496d1c6544a8eee8bmv2_ezgif_com_resize_2.gif
       alt: Bukit Timah CC contact us
 ---
