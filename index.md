@@ -1,7 +1,11 @@
 ---
 layout: homepage
 title: Bukit Timah CC
-description: An Isomer site of the Singapore Government
+description: Discover the vibrant Bukit Timah Community Club! Our website is
+  your go-to hub for community events, classes, and resources. Join us to
+  connect with neighbors, participate in activities, and explore all that Bukit
+  Timah has to offer. Stay updated on workshops, sports, and cultural
+  events—let’s build a stronger community together!
 image: /images/PA_Logo.png
 permalink: /
 notification: ""
