@@ -4,7 +4,7 @@ permalink: /join-us-as-a-community-volunteer/
 variant: tiptap
 description: ""
 ---
-<h3>Make a Difference Together: Volunteer Opportunities Await You!</h3>
+<h3><strong>Make a Difference Together: Volunteer Opportunities Await You!</strong></h3>
 <hr>
 <h4><strong>Join Us as a Volunteer!</strong></h4>
 <p>We welcome you to make a difference in our community.</p>
