@@ -2,6 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Join Us as a Community Volunteer!.md
       - About us.md
       - Our Grassroots Adviser.md
+      - Join Us as a Community Volunteer!.md
