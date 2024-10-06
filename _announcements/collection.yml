@@ -2,5 +2,5 @@ collections:
   announcements:
     output: true
     order:
-      - Estate Notices.md
       - Announcements.md
+      - Estate Notices.md
