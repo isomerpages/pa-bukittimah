@@ -5,7 +5,7 @@ links:
   - title: Announcements
     collection: announcements
   - title: Events
-    url: /events/
+    collection: events
   - title: Our Community
     url: /our-community/
   - title: Contact Us
