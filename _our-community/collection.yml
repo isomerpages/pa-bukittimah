@@ -2,4 +2,5 @@ collections:
   our-community:
     output: true
     order:
+      - Our Newsletters.md
       - Our Socials.md
