@@ -7,6 +7,6 @@ links:
   - title: Events
     collection: events
   - title: Our Community
-    url: /our-community/
+    collection: our-community
   - title: Contact Us
     url: /contact-us/
