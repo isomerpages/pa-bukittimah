@@ -2,6 +2,6 @@ collections:
   our-community:
     output: true
     order:
-      - Stay Ahead with the Latest News.md
       - Our Socials.md
       - Our Newsletters.md
+      - Stay Ahead with the Latest News.md
