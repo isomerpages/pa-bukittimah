@@ -31,7 +31,7 @@ sections:
         telecommunications pipelines around the proposed site of BTID are
         expected to commence
       button: Click here to learn more
-      url: /btid/
+      url: /announcements/
       image: /images/2024_0621_AERIAL_VIEW.jpg
       alt: Image alt text
   - infopic:
