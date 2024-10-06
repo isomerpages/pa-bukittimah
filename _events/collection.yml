@@ -2,4 +2,5 @@ collections:
   events:
     output: true
     order:
+      - Past Event Highlights.md
       - Events.md
