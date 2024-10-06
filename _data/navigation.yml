@@ -1,9 +1,9 @@
 logo: /images/PA_Logo.png
 links:
   - title: About Us
-    url: /about-us/
+    collection: about-us
   - title: Announcements
-    url: /announcements/
+    collection: announcements
   - title: Events
     url: /events/
   - title: Our Community
