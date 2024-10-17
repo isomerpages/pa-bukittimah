@@ -4,7 +4,7 @@ permalink: /about-us/
 variant: tiptap
 description: ""
 ---
-<h1>Discover Bukit Timah!</h1>
+<h2><strong>Discover Bukit Timah!</strong></h2>
 <p><strong>Welcome to Bukit Timah Community Club!</strong>
 </p>
 <p>At Bukit Timah Community Club, we are dedicated to fostering a vibrant
