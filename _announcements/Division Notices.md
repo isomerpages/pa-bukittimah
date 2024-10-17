@@ -15,8 +15,8 @@ description: Our announcements page features important updates
 <div class="isomer-card-body">
 <div class="isomer-card-title">Bukit Timah Integrated Development Exhibition</div>
 <div class="isomer-card-description">Bukit Timah Integrated Development Exhibition will be held at Bukit Timah
-Community Club Location : 20 Toh Yi Dr, Singapore 596569 Date: From 15
-September 2024 to 27 October 2024</div>
+Community Club Location : 20 Toh Yi Drive, Singapore 596569 Date: 15 September
+2024 to 27 October 2024</div>
 </div>
 </div>
 </div>
