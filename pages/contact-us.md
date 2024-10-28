@@ -6,13 +6,13 @@ agency_name: Bukit Timah Community Club
 locations:
   - address:
       - 20 Toh Yi Dr,
-      - Singapore 596569
+      - "596569"
       - ""
     operating_hours:
       - days: Mon - Sun
         time: 10.00am to 6.00pm
         description: Closed on Public Holidays
-    maps_link: ""
+    maps_link: https://g.co/kgs/gK1WFKJ
     title: Bukit Timah Community Club
 contacts:
   - content:
